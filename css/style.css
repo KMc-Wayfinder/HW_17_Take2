@@ -30,6 +30,7 @@ header p {
   padding: 50px;
   background-color: #FFFFFF;
   text-align: center;
+  border-radius: 10px;
 }
 button {
   padding: 15px;
@@ -64,4 +65,8 @@ h2 {
   font-family:sans-serif;
   color: #E1A11B;
 
+}
+
+.krista{
+  border-radius: 10px;
 }
